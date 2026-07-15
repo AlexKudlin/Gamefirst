@@ -4,7 +4,7 @@ from map import Map
 import time
 import os
 import json
-from Songapp.Game.cloud import Cloud
+from cloud import Cloud
 from helicopter import Helicopter as Helico
 
 TICK_SLEEP = 0.05
